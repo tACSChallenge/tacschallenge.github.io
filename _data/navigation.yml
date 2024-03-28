@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Committee"
+    url: /committee/
+  - title: "Participating Labs"
+    # url: /collection-archive/
+  - title: "Project Requirements & Status"
+  #   url: /sitemap/
+  - title: "Resources"
+  #   url: /sitemap/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

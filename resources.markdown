@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Resources
+permalink: /resources/
 ---
 
 Can put some text ...

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Committee
+permalink: /committee/
 ---
 
 Can put some text ...
