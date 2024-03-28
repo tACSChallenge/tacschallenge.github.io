@@ -30,7 +30,8 @@ twitter_username: TACSchallenge
 github_username:  tACSChallenge
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
