@@ -6,7 +6,7 @@ layout: default
 title: 
 ---
 
-## The tACS Challenge Initiative ##
+The tACS Challenge Initiative
 
 ![logo](/assets/images/logo.jpg)
 
