@@ -10,7 +10,7 @@ permalink: /proj_status/
  <span style="color:blue"><b>Study overview</b></span>
 
 The objective of the tACS initiative is twofold: 
-1. To identify a basic tACS paradigm that could be widely agreed upon in terms of theoretical efficacy;
+1. To identify a basic tACS paradigm that could be widely agreed upon in terms of theoretical efficacy; <span style="color:green"><b>[COMPLETED]</b></span>
 2. To conduct experiments using this paradigm across multiple research centres and investigate whether the application of tACS yields robust and replicable outcomes. 
 
 {: style="text-align: justify;"}
@@ -33,7 +33,8 @@ Meet the minimum criteria in equipment settings to join the tACS challenge:
 {: style="text-align: justify;"}
 1. <u>Transcranial electric stimulator device:</u> minimum stimulation intensity 2 mA (peak-to-peak amplitude), that can produce an alternating current at 10Hz, with 1 channel or more.
 
-2. <u>Stimulus presentation device</u>: a software controlled, Arduino-based visual stimulation device box that will control 5 + 1 LEDs. The custom-built Arduino set-up is currently being estimated to cost about 700-800 € per device (design or devices available by Nir Grossman). *Devices can be shared across labs.*
+2. <u>Stimulus presentation device</u>: a software controlled, Arduino-based visual stimulation device box that will control 5 + 1 LEDs. The custom-built Arduino set-up is currently being estimated to cost about 700-800 € per device (design or devices available by Nir Grossman). *The tACS Challenge Committee has 5 devices (atm) that can be shared across labs if collaborating labs don’t want to or cannot pay for having a device made.*
+
 
 3. <u>Consumables and sundries</u>: these include caps, electrodes, gel, etc.
 
@@ -49,9 +50,10 @@ List of equipment and consumables
 |tACS rubber electrodes (Ø: 45 mm area: 16 cm² without hole 2 mm thick)|3 minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices)<br> [brainbox](https://www.brainbox.shop/categories/tes-electrodes-sponges/1938652000002129032)|
 |tACS rubber electrodes (Ø: 25mm area: 5cm² without hole 2 mm thick)|5 minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices)<br> [brainbox](https://www.brainbox.shop/categories/tes-electrodes-sponges/1938652000002129032)|
 |tACS electrode cables |5 pairs minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices)<br> [brainbox](https://www.brainbox.shop/categories/tes-cables/1938652000002129036)|
-|Current switching device |optional| |
+|Current switching device<sup><b>1</b></sup> |optional| |
 |EMLA cream |optional| |
 
+<sup><b>1</b></sup> The current switching device allows switching between montages (i.e. different stimulation conditions). It was developed to allow for more efficient switching between the 3 montages used in the study. This is optional as the montage switching can be done manually. Details for the current switching device and associated costs can be provided upon request.
 
  <span style="color:blue"><b>Additional data acquisition - optional</b></span>
 
@@ -70,7 +72,7 @@ Completion of Registered Report Stage 1.
 <span style="color:blue"><b>Tentative timeline</b></span>
 
 <u>April 2024</u> - Open call for participating labs<br>
-<u>May 2024</u>- Registered Report Stage 1 submissions<br>
+<u>May 2024</u>- Registered Report Stage 1 submission<br>
 <u>September 2024</u>- Full presentation/discussion of the approved experimental designs<br>
 <u>December 2024</u>- Ethics approval for all participating labss<br>
 <u>January – April 2025</u> - Data collections<br>
