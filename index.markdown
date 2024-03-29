@@ -6,8 +6,9 @@ layout: default
 title: ""
 ---
 
-<b>The tACS Challenge: Multi-centre Initiative</b>
-
+<header>
+	<h1>The tACS Challenge: Multi-centre Initiative</h1>
+</header>
 
 {: .center}
 ![logo](/assets/images/logo.jpg)
@@ -28,14 +29,14 @@ The project aims to promote the quality of NIBS research through a commitment to
 The protocol and resources currently available have been developed by the **[tACS Challenge Committee](/committee/)**
 
 {: style="text-align: justify;"}
-Discover more about the project protocol and project requirements in the **[Project Requirements and Status](/proj_status/) page.**
+Discover more about the project protocol and project requirements in the **[Project Requirements and Status](/proj_status/)** page.
 
 {: style="text-align: justify;"}
 Check the list of **[Participating Labs](/labs/)** that are joining the tACS Challenge
 
 {: style="text-align: justify;"}
 **Are you ready to embark on a remarkable journey?**
-If you would like to join us, write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com)
+If you would like to join us check the **[Project Requirements and Status](/proj_status/)** page and **write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com)**
 
 {: style="text-align: justify;"}
 Emails should come from the lab's principal investigator (PI) or senior researcher that can confirm that they have the necessary resources to join the initiative. 
