@@ -1,2 +1,3 @@
-# tacschallenge.github.io
-tACS Challenge website - v1
+# [tACS Challenge Website](https://tacschallenge.github.io/)
+
+Repository with the tACS challenge website content.
