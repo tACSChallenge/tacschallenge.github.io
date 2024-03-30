@@ -26,7 +26,7 @@ To achieve this we have developed an experimental design to disambiguate between
 The project aims to promote the quality of NIBS research through a commitment to methodological rigour, acquisition of large datasets, scientific transparency, and data sharing.
 
 {: style="text-align: justify;"}
-The protocol and resources currently available have been developed by the **[tACS Challenge Committee](/committee/)**
+The protocol and resources currently available have been developed by the **[tACS Challenge Core Team](/coreteam/)**
 
 {: style="text-align: justify;"}
 Discover more about the project protocol and project requirements in the **[Project Requirements and Status](/proj_status/)** page.

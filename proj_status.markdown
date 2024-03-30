@@ -33,7 +33,7 @@ Meet the minimum criteria in equipment settings to join the tACS challenge:
 {: style="text-align: justify;"}
 1. <u>Transcranial electric stimulator device:</u> minimum stimulation intensity 2 mA (peak-to-peak amplitude), that can produce an alternating current at 10Hz, with 1 channel or more.
 
-2. <u>Stimulus presentation device</u>: a software controlled, Arduino-based visual stimulation device box that will control 5 + 1 LEDs. The custom-built Arduino set-up is currently being estimated to cost about 700-800 € per device (design or devices available by Nir Grossman). *The tACS Challenge Committee has 5 devices (atm) that can be shared across labs if collaborating labs don’t want to or cannot pay for having a device made.*
+2. <u>Stimulus presentation device</u>: a software controlled, Arduino-based visual stimulation device box that will control 5 + 1 LEDs. The custom-built Arduino set-up is currently being estimated to cost about 700-800 € per device (design or devices available by Nir Grossman). *The tACS Challenge core team has 5 devices (atm) that can be shared across labs if collaborating labs don’t want to or cannot pay for having a device made.*
 
 
 3. <u>Consumables and sundries</u>: these include caps, electrodes, gel, etc.
@@ -61,7 +61,7 @@ Participating labs can record EEG data as part of this study on their own initia
 
  <span style="color:blue"><b>Authorship</b></span>
 
-Those providing substantial contributions to the project (e.g., data collection) as co-authors, steering committee as corresponding authors, author list reflects degree of involvement. Example: Til-Ole Bergmann, Benedikt Zoefel, Christoph S. Herrmann, Ines Violante, … [authors from contributing labs] … Carlo Miniussi, Andrea Antal, Simon Hanslmayr
+Those providing substantial contributions to the project (e.g., data collection) as co-authors, core team as corresponding authors, author list reflects degree of involvement. 
 
 <span style="color:blue"><b>Status</b></span>
 
@@ -73,12 +73,12 @@ Completion of Registered Report Stage 1.
 
 <u>April 2024</u> - Open call for participating labs<br>
 <u>May 2024</u>- Registered Report Stage 1 submission<br>
-<u>September 2024</u>- Full presentation/discussion of the approved experimental designs<br>
-<u>December 2024</u>- Ethics approval for all participating labss<br>
-<u>January – April 2025</u> - Data collections<br>
-<u>June 2025</u>- Data analyses completed<br>
-<u>July 2025</u>- Discussion of findings among participating labs<br>
-<u>December 2025</u>- Submission of Stage 2 Registered Report
+<u>September 2024</u>- Presentation/discussion of the approved experimental designs<br>
+<u>November 2024</u>- Ethics applications for participating labss<br>
+<u>January – September 2025</u> - Data collection<br>
+<u>November 2025</u>- Data analyses completed<br>
+<u>January 2026</u>- Discussion of findings among participating labs<br>
+<u>March 2026</u>- Submission of Stage 2 Registered Report
 
 ![timeline](/assets/images/timeline.jpg)
 
