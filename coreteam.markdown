@@ -27,7 +27,7 @@ td, th {
 
 **The Rovereto Team for hosting the tACS Challenge updates**
 
-**Eddie Rhodes & Jonathan Howard**
+**Eddy Rhodes & Jonathan Howard**
 Developing Arduino device
 
 **Umair Hassan**

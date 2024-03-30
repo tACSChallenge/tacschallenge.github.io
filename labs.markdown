@@ -3,8 +3,9 @@ layout: default
 title: Participating Labs
 permalink: /labs/
 ---
-
-**Participating Labs**
+<header>
+<h2>Participating Labs</h2>
+</header>
 
 {: style="text-align: justify;"}
 Participation in the tACS challenge is open to single researchers, research groups and labs. 
@@ -13,3 +14,12 @@ We have currently a list of ~30 labs who expressed interest in being part of thi
 
 If you would like to join us, write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com)
 
+
+<span style="color:blue"><b>Confirmed Labs (in alphabetical order)</b></span><br>
+
+Bergmann lab, Johannes-Gutenberg University Medical Center, Germany<br>
+Hanslmayr lab, University of Glasgow, Centre for Neurotechnology, UK<br>
+Herrmann lab, Carl Von Ossietzky University, Germany<br>
+Miniussi lab, University of Trento, Italy<br>
+Violante lab, University of Surrey, UK<br>
+ 
