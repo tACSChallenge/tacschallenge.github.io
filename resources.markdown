@@ -9,7 +9,7 @@ permalink: /resources/
 </header>
 
 <span style="color:blue"><b>GitHub repository</b></span> - [https://github.com/tACSChallenge](https://github.com/tACSChallenge)<br>
-The repository includes SOPs, source code for visual stimulus device, scripts and more.
+The repository includes [SOPs](https://github.com/tACSChallenge/resources), source code for visual stimulus device, scripts and more.
 
 
 <span style="color:blue"><b>OSF The TACS Challenge</b></span> - [https://osf.io/gz84a/](https://osf.io/gz84a/)<br>
