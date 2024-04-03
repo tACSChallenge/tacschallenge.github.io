@@ -38,11 +38,11 @@ Check the list of **[Participating Labs](/labs/)** that are joining the tACS Cha
 **Are you ready to embark on a remarkable journey?**
 If you would like to join us check the **[Project Requirements and Status](/proj_status/)** page and **[complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing){:target="_blank"}**
 
-If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com)
 
 {: style="text-align: justify;"}
 Completion of the form should be done by the lab's principal investigator (PI) or senior researcher that can confirm that they have the necessary resources to join the initiative. 
 
+If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com)
 
 
  <span style="color:blue">Join us and be a part of the tACS challenge</span>
