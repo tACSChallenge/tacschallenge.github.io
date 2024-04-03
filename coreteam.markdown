@@ -44,7 +44,7 @@ Organization and testing of behavioral protocol
 Testing of behavioral protocol
 
 **Axel Thielscher**
-E-field calculations
+E-field calculations - [available on github](https://github.com/tACSChallenge/montage_simulations){:target="_blank"}
 
 **Benedikt Zoefel**
 Developing analysis pipeline
