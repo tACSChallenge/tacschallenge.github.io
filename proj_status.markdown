@@ -87,7 +87,7 @@ Completion of Registered Report Stage 1.
 
 {: style="text-align: justify;"}
 Participation in the tACS challenge is open to single researchers, research groups and labs. 
-If you would like to join us **[complete this form] (https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing)**
+If you would like to join us **[complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing)**
 
 If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com) 
 

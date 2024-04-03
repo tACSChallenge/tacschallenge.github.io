@@ -12,7 +12,7 @@ Participation in the tACS challenge is open to single researchers, research grou
 
 We have currently a list of ~30 labs who expressed interest in being part of this project and we are currently confirming with them their involvement.
 
-If you would like to join us check the **[Project Requirements and Status](/proj_status/)** page and **[complete this form] (https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing)**
+If you would like to join us check the **[Project Requirements and Status](/proj_status/)** page and **[complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing)**
 
 If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com)
 
