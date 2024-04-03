@@ -41,7 +41,7 @@ If you would like to join us check the **[Project Requirements and Status](/proj
 If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com)
 
 {: style="text-align: justify;"}
-Emails should come from the lab's principal investigator (PI) or senior researcher that can confirm that they have the necessary resources to join the initiative. 
+Completion of the form should be done by the lab's principal investigator (PI) or senior researcher that can confirm that they have the necessary resources to join the initiative. 
 
 
 
