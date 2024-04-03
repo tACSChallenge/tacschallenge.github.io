@@ -28,7 +28,7 @@ td, th {
 **The Rovereto Team for hosting the tACS Challenge updates**
 
 **Eddy Rhodes & Jonathan Howard**
-Developing Arduino device
+Developing Arduino device - [source code available on github](https://github.com/tACSChallenge/Device_Source_Code){:target="_blank"}
 
 **Umair Hassan**
 Developing tACS Cap and Montage Switching Box
@@ -47,4 +47,5 @@ Testing of behavioral protocol
 E-field calculations - [available on github](https://github.com/tACSChallenge/montage_simulations){:target="_blank"}
 
 **Benedikt Zoefel**
-Developing analysis pipeline
+Developing analysis pipeline - [available on github](https://github.com/tACSChallenge/tACSChallenge_Analyses/tree/main/){:target="_blank"}
+
