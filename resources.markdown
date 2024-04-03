@@ -8,15 +8,15 @@ permalink: /resources/
 <h2>Resources</h2>
 </header>
 
-<span style="color:blue"><b>GitHub repository</b></span> - [https://github.com/tACSChallenge](https://github.com/tACSChallenge)<br>
-The repository includes [SOPs](https://github.com/tACSChallenge/resources), source code for visual stimulus device, scripts and more.
+<span style="color:blue"><b>GitHub repository</b></span> - [https://github.com/tACSChallenge](https://github.com/tACSChallenge){:target="_blank"}<br>
+The repository includes [SOPs](https://github.com/tACSChallenge/resources){:target="_blank"}, source code for visual stimulus device, scripts and more.
 
 
-<span style="color:blue"><b>OSF The TACS Challenge</b></span> - [https://osf.io/gz84a/](https://osf.io/gz84a/)<br>
+<span style="color:blue"><b>OSF The TACS Challenge</b></span> - [https://osf.io/gz84a/](https://osf.io/gz84a/){:target="_blank"}<br>
 Currently the OSF contains the pilot data for the visual stimulation paradigm
 
 <span style="color:blue"><b>Talks</b></span><br>
-[Project presentation at TBS CNW December 2022](https://www.youtube.com/watch?v=alBflLKyZcA)
+[Project presentation at TBS CNW December 2022](https://www.youtube.com/watch?v=alBflLKyZcA){:target="_blank"}
 
 
 **Bibliography**<br>

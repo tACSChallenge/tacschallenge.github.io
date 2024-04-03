@@ -36,7 +36,7 @@ Check the list of **[Participating Labs](/labs/)** that are joining the tACS Cha
 
 {: style="text-align: justify;"}
 **Are you ready to embark on a remarkable journey?**
-If you would like to join us check the **[Project Requirements and Status](/proj_status/)** page and **[complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing)**
+If you would like to join us check the **[Project Requirements and Status](/proj_status/)** page and **[complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing){:target="_blank"}**
 
 If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com)
 

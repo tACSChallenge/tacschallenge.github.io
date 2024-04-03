@@ -40,20 +40,23 @@ Meet the minimum criteria in equipment settings to join the tACS challenge:
 
 List of equipment and consumables
 
-|Item   |Quantity                             |Where to find / buy|
+|Item   |Quantity                             |Where to find / buy<sup><b>1</b></sup>|
 |-------|--------------------------------------|--------------------|
 |tACS device|1| several manufactors - see minimum specs above |
 |Stimulus presentation device|1| contact ** |
-|Textile Landmark Caps for tACS Cap|1 <i>(1 minimum, 3 suggested with different adult head sizes)</i>| [https://shop.easycap.de/](https://shop.easycap.de/)<br> [https://mes.gmbh/](https://mes.gmbh/) |
-|tACS cap electrode holders|6 <i>(per cap)</i>| [tACS Electrode Holders .stl files for 3D printing](https://github.com/tACSChallenge/resources/tree/main/tACS_Electrode_Holders)|
-|Ten20 Gel|3 <i>(suggested for N=20)</i>| several supplier options, e.g.,<br> [unimed-electrodes](https://www.unimed-electrodes.co.uk/Ten20-EEG-Conductive-paste-228gm-(8oz)-tub/99)<br> [weaverandcompany](https://www.weaverandcompany.com/products/ten20/)<br> [brainbox](https://www.brainbox.shop/categories/tes-consumables/1938652000002129038)<br> [easycap](https://shop.easycap.de/)|
-|tACS rubber electrodes (Ø: 45 mm area: 16 cm² without hole 2 mm thick)|3 minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices)<br> [brainbox](https://www.brainbox.shop/categories/tes-electrodes-sponges/1938652000002129032)|
-|tACS rubber electrodes (Ø: 25mm area: 5cm² without hole 2 mm thick)|5 minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices)<br> [brainbox](https://www.brainbox.shop/categories/tes-electrodes-sponges/1938652000002129032)|
-|tACS electrode cables |5 pairs minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices)<br> [brainbox](https://www.brainbox.shop/categories/tes-cables/1938652000002129036)|
-|Current switching device<sup><b>1</b></sup> |optional| |
+|Textile Landmark Caps for tACS Cap|1 <i>(1 minimum, 3 suggested with different adult head sizes)</i>| [https://shop.easycap.de/](https://shop.easycap.de/){:target="_blank"}<br> [https://mes.gmbh/](https://mes.gmbh/){:target="_blank"} |
+|tACS cap electrode holders|6 <i>(per cap)</i>| [tACS Electrode Holders .stl files for 3D printing](https://github.com/tACSChallenge/resources/tree/main/tACS_Electrode_Holders){:target="_blank"}|
+|Ten20 Gel|3 <i>(suggested for N=20)</i>| several supplier options, e.g.,<br> [unimed-electrodes](https://www.unimed-electrodes.co.uk/Ten20-EEG-Conductive-paste-228gm-(8oz)-tub/99){:target="_blank"}<br> [weaverandcompany](https://www.weaverandcompany.com/products/ten20/){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-consumables/1938652000002129038){:target="_blank"}<br> [easycap](https://shop.easycap.de/){:target="_blank"}|
+|tACS rubber electrodes (Ø: 45 mm area: 16 cm² without hole 2 mm thick)|3 minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-electrodes-sponges/1938652000002129032){:target="_blank"}|
+|tACS rubber electrodes (Ø: 25mm area: 5cm² without hole 2 mm thick)|5 minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-electrodes-sponges/1938652000002129032){:target="_blank"}|
+|tACS electrode cables |5 pairs minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-cables/1938652000002129036){:target="_blank"}|
+|Current switching device<sup><b>2</b></sup> |optional| |
 |EMLA cream |optional| |
 
-<sup><b>1</b></sup> The current switching device allows switching between montages (i.e. different stimulation conditions). It was developed to allow for more efficient switching between the 3 montages used in the study. This is optional as the montage switching can be done manually. Details for the current switching device and associated costs can be provided upon request.
+
+<sup><b>1</b></sup> Where manufacturers are listed these are just examples. We do not make specific manufacturer recommendations.
+
+<sup><b>2</b></sup> The current switching device allows switching between montages (i.e. different stimulation conditions). It was developed to allow for more efficient switching between the 3 montages used in the study. This is optional as the montage switching can be done manually. Details for the current switching device and associated costs can be provided upon request.
 
  <span style="color:blue"><b>Additional data acquisition - optional</b></span>
 
@@ -87,7 +90,7 @@ Completion of Registered Report Stage 1.
 
 {: style="text-align: justify;"}
 Participation in the tACS challenge is open to single researchers, research groups and labs. 
-If you would like to join us **[complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing)**
+If you would like to join us **[complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing){:target="_blank"}**
 
 If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com) 
 
