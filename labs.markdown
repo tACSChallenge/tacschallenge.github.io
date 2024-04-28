@@ -19,9 +19,26 @@ If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacs
 
 <span style="color:blue"><b>Confirmed Labs (in alphabetical order)</b></span><br>
 
+Antal lab, NIBS lab, University Medical Center Göttingen, Germany<br>
+Aglioti lab, Neuroscience & Society, Italian Institute of Technology (IIT), Rome, Italy<br>
+Battelli lab, Italian Institute of Technology, Italy<br>
 Bergmann lab, Johannes-Gutenberg University Medical Center, Germany<br>
+Bjekic lab, Human Neuroscience Group, Institute for Medical Research, University of Belgrade<br>
+Dyke lab, University of Nottingham, UK<br>
+Fawcett lab, Memorial University, Canada<br>
 Hanslmayr lab, University of Glasgow, Centre for Neurotechnology, UK<br>
 Herrmann lab, Carl Von Ossietzky University, Germany<br>
+Huang lab, Institute of Psychology, Chinese Academy of Sciences, China<br>
+Learmonth lab, University of Stirling, Scotland, UK<br>
+Liu Chunlei's lab, School of Psychology, Qufu Normal University, China<br>
 Miniussi lab, University of Trento, Italy<br>
+Pavlov lab, University of Tuebingen, Germany<br>
+Sack lab, Maastricht University, Netherlands<br>
+Sale lab, University of Queensland, Australia<br>
+Scando lab, NPSY-Lab.VR, University of Verona, Italy<br>
 Violante lab, University of Surrey, UK<br>
+Zaehle lab, University Magdeburg, Germany<br>
+
+
+
  
