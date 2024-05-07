@@ -10,7 +10,7 @@ permalink: /labs/
 {: style="text-align: justify;"}
 Participation in the tACS challenge is open to single researchers, research groups and labs. 
 
-We have currently a list of ~30 labs who expressed interest in being part of this project and we are currently confirming with them their involvement.
+We have currently a list of >30 labs who expressed interest in being part of this project and we are currently confirming with them their involvement.
 
 If you would like to join us check the **[Project Requirements and Status](/proj_status/)** page and **[complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing){:target="_blank"}**
 
