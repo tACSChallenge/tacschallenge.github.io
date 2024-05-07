@@ -24,7 +24,7 @@ Commitment to:
 2. Provide a report on the stimulation and acquisition procedures following the tACS Challenge SOPs
 3. Share raw data and meta-files in the tACS challenge open repository
 
-We are hoping to achieve the largest tACS study conducted to date, approximately 30 labs, contributing data for 20 participants each = 600 participants!
+We are hoping to achieve the largest tACS study conducted to date, >30 labs, contributing data for 20 participants each = more than 600 participants!
 
 
  <span style="color:blue"><b>Equipment requirements</b></span>
@@ -68,13 +68,13 @@ Those providing substantial contributions to the project (e.g., data collection)
 
 <span style="color:blue"><b>Status</b></span>
 
-Accepting expressions of interest from labs to join the challenge.<br>
+Expressions of interest from labs to join the challenge.<span style="color:green"><b>[COMPLETED]</b></span><br>
 Completion of Registered Report Stage 1.
 
 
 <span style="color:blue"><b>Tentative timeline</b></span>
 
-<u>April 2024</u> - Open call for participating labs<br>
+<u>April 2024</u> - Open call for participating labs<span style="color:green"><b>[COMPLETED]</b></span><br><br>
 <u>May 2024</u>- Registered Report Stage 1 submission<br>
 <u>September 2024</u>- Presentation/discussion of the approved experimental designs<br>
 <u>November 2024</u>- Ethics applications for participating labss<br>
@@ -89,9 +89,6 @@ Completion of Registered Report Stage 1.
  <span style="color:blue"><b>Contribute</b></span>
 
 {: style="text-align: justify;"}
-Participation in the tACS challenge is open to single researchers, research groups and labs. 
-If you would like to join us **[complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfl09vX_z2ynfikETqInRdvYvAekUlJTSuJbqJ1qwbkD73Vpg/viewform?usp=sharing){:target="_blank"}**
-
 If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com) 
 
 
