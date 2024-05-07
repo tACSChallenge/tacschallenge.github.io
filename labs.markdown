@@ -25,7 +25,7 @@ If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacs
 4. Battaglini lab, PercUP gourp, Department of General Psychology, University of Padova, Italy<br> 
 5. Battelli lab, Italian Institute of Technology, Italy<br>
 6. Bergmann lab, Johannes-Gutenberg University Medical Center, Germany<br>
-7. Bjekic lab, Human Neuroscience Group, Institute for Medical Research, University of Belgrade<br>
+7. Bjekic lab, Human Neuroscience Group, Institute for Medical Research, University of Belgrade, Serbia<br>
 8. Cai lab, Department of Psychology and Behavioral Science, Zhejiang University, China<br>
 9. Castelo-Branco lab, CIBIT, ICNAS, Faculty of Medicine, University of Coimbra, Portugal<br>
 10. Cespón lab, Department of Clinical Psychology and Psychobiology, University of Santiago de Compostela, Spain<br>
