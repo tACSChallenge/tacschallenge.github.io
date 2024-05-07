@@ -74,7 +74,7 @@ Completion of Registered Report Stage 1.
 
 <span style="color:blue"><b>Tentative timeline</b></span>
 
-<u>April 2024</u> - Open call for participating labs<span style="color:green"><b>[COMPLETED]</b></span><br><br>
+<u>April 2024</u> - Open call for participating labs <span style="color:green"><b>[COMPLETED]</b></span><br>
 <u>May 2024</u>- Registered Report Stage 1 submission<br>
 <u>September 2024</u>- Presentation/discussion of the approved experimental designs<br>
 <u>November 2024</u>- Ethics applications for participating labss<br>
