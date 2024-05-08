@@ -3,14 +3,13 @@ layout: default
 title: Participating Labs
 permalink: /labs/
 ---
+<span style="color:blue"><b>If you want to join the tACS challenge, please complete [this form](https://forms.gle/3kR7yqjV5nCYwND68) by the 10th of May!</b></span>
+
 <header>
 <h2>Participating Labs</h2>
 </header>
 
 {: style="text-align: justify;"}
-
-<span style="color:blue"><b>If you want to join the tACS challenge, please complete [this form](https://forms.gle/3kR7yqjV5nCYwND68) by the 10th of May!</b></span>
-
 
 <span style="color:blue"><b>Confirmed Labs (in alphabetical order)</b></span><br>
 

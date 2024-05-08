@@ -69,7 +69,7 @@ Those providing substantial contributions to the project (e.g., data collection)
 <span style="color:blue"><b>Status</b></span>
 
 Expressions of interest from labs to join the challenge.<br>
-<span style="color:blue"><b>If you want to join the tACS challenge, please complete [this form](https://forms.gle/3kR7yqjV5nCYwND68) by the 10th of May!</b></span>
+<span style="color:black"><b>If you want to join the tACS challenge, please complete [this form](https://forms.gle/3kR7yqjV5nCYwND68) by the 10th of May!</b></span>
 
 Completion of Registered Report Stage 1.
 
