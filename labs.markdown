@@ -9,6 +9,9 @@ permalink: /labs/
 
 {: style="text-align: justify;"}
 
+<span style="color:blue"><b>If you want to join the tACS challenge, please complete [this form](https://forms.gle/3kR7yqjV5nCYwND68) by the 10th of May!</b></span>
+
+
 <span style="color:blue"><b>Confirmed Labs (in alphabetical order)</b></span><br>
 
 1. Aglioti lab, Neuroscience & Society, Italian Institute of Technology (IIT), Rome, Italy<br>
