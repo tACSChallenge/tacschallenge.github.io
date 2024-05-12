@@ -3,8 +3,6 @@ layout: default
 title: Participating Labs
 permalink: /labs/
 ---
-<span style="color:blue"><b>If you want to join the tACS challenge, please complete [this form](https://forms.gle/3kR7yqjV5nCYwND68) by the 10th of May!</b></span>
-
 <header>
 <h2>Participating Labs</h2>
 </header>
@@ -31,22 +29,26 @@ permalink: /labs/
 16. Hanslmayr lab, University of Glasgow, Centre for Neurotechnology, UK<br>
 17. Herrmann lab, Carl Von Ossietzky University, Germany<br>
 18. Huang lab, Institute of Psychology, Chinese Academy of Sciences, China<br>
-19. Learmonth lab, University of Stirling, Scotland, UK<br>
-20. Liu Chunlei's lab, School of Psychology, Qufu Normal University, China<br>
-21. Lupiáñez lab, Dpt. Experimental Psychology and Mind, Brain, and Behavior Research Center, University of Granada, Spain<br>
-22. Miniussi lab, University of Trento, Italy<br>
-23. Mittner lab, Department of Psychology, UiT - The Arctic University of Norway, Norway<br>
-24. Obleser lab, University of Lübeck, Germany<br>
-25. Pack lab, Montreal Neurological Institute, McGill, Canada<br>
-26. Pavlov lab, University of Tuebingen, Germany<br>
-27. Ruhnau lab, Perception, Cognition, and Neuroscience Group, University of Central Lancashire, UK<br>
-28. Sack lab, Maastricht University, Netherlands<br>
-29. Sale lab, University of Queensland, Australia<br>
-30. Scando lab, NPSY-Lab.VR, University of Verona, Italy<br>
-31. Schneider lab, University Medical Center Hamburg-Eppendorf, Germany<br>
-32. Siebner lab, Danish Research Centre for Magnetic Resonance, Copenhagen University Hospital - Amager and Hvidovre, Denmark<br>
-33. Violante lab, University of Surrey, UK<br>
-34. Zaehle lab, University Magdeburg, Germany<br>
+19. Ivry's lab, University of California, Berkeley, USA<br>
+20. Learmonth lab, University of Stirling, Scotland, UK<br>
+21. Lin He's lab, Key Laboratory of Rehabilitation Medicine in Sichuan Province, Department of Rehabilitation Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China<br>
+22. Liu Chunlei's lab, School of Psychology, Qufu Normal University, China<br>
+23. Lupiáñez's lab, Dpt. Experimental Psychology and Mind, Brain, and Behavior Research Center, University of Granada, Spain<br>
+24. Martin's lab, University of Kent, UK<br>
+25. Miniussi lab, University of Trento, Italy<br>
+26. Mittner lab, Department of Psychology, UiT - The Arctic University of Norway, Norway<br>
+27. Obleser lab, University of Lübeck, Germany<br>
+28. Pack lab, Montreal Neurological Institute, McGill, Canada<br>
+29. Pavlov lab, University of Tuebingen, Germany<br>
+30. Ruhnau lab, Perception, Cognition, and Neuroscience Group, University of Central Lancashire, UK<br>
+31. Sack lab, Maastricht University, Netherlands<br>
+32. Sale lab, University of Queensland, Australia<br>
+33. Scando lab, NPSY-Lab.VR, University of Verona, Italy<br>
+34. Schneider lab, University Medical Center Hamburg-Eppendorf, Germany<br>
+35. Siebner lab, Danish Research Centre for Magnetic Resonance, Copenhagen University Hospital - Amager and Hvidovre, Denmark<br>
+36. Soekadar's lab, Clinical Neurotechnology Laboratory, Dept. of Psychiatry and Neurosciences, Charité Campus Mitte (CCM), Charité - Universitätsmedizin Berlin, Germany<br>
+37. Violante lab, University of Surrey, UK<br>
+38. Zaehle lab, University Magdeburg, Germany<br>
 
 
 

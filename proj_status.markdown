@@ -68,15 +68,11 @@ Those providing substantial contributions to the project (e.g., data collection)
 
 <span style="color:blue"><b>Status</b></span>
 
-Expressions of interest from labs to join the challenge.<br>
-<span style="color:black"><b>If you want to join the tACS challenge, please complete [this form](https://forms.gle/3kR7yqjV5nCYwND68) by the 10th of May!</b></span>
-
-Completion of Registered Report Stage 1.
-
+Completion of Registered Report Stage 1.<br>
 
 <span style="color:blue"><b>Tentative timeline</b></span>
 
-<u>April 2024</u> - Open call for participating labs<br>
+<u>April 2024</u> - Open call for participating labs <span style="color:green"><b>[COMPLETED]</b></span><br>
 <u>May 2024</u>- Registered Report Stage 1 submission<br>
 <u>September 2024</u>- Presentation/discussion of the approved experimental designs<br>
 <u>November 2024</u>- Ethics applications for participating labss<br>
