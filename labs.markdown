@@ -50,6 +50,6 @@ permalink: /labs/
 37. Violante lab, University of Surrey, UK<br>
 38. Zaehle lab, University Magdeburg, Germany<br>
 
-
+![labs](/assets/images/World_map_participating_labs.png)
 
  
