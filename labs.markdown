@@ -13,8 +13,8 @@ permalink: /labs/
 
 1. Aglioti lab, Neuroscience & Society, Italian Institute of Technology (IIT), Rome, Italy<br>
 2. Antal lab, NIBS lab, University Medical Center Göttingen, Germany<br>
-3. Antonenko lab, Department of Neurology, Universitätsmedizin Greifswald, Germany<br> 
-4. Battaglini lab, PercUP gourp, Department of General Psychology, University of Padova, Italy<br> 
+3. Antonenko lab, Department of Neurology, Universitätsmedizin Greifswald, Germany<br>
+4. Battaglini lab, PercUP gourp, Department of General Psychology, University of Padova, Italy<br>
 5. Battelli lab, Italian Institute of Technology, Italy<br>
 6. Bergmann lab, Johannes-Gutenberg University Medical Center, Germany<br>
 7. Bjekic lab, Human Neuroscience Group, Institute for Medical Research, University of Belgrade, Serbia<br>
@@ -47,9 +47,8 @@ permalink: /labs/
 34. Schneider lab, University Medical Center Hamburg-Eppendorf, Germany<br>
 35. Siebner lab, Danish Research Centre for Magnetic Resonance, Copenhagen University Hospital - Amager and Hvidovre, Denmark<br>
 36. Soekadar lab, Clinical Neurotechnology Laboratory, Dept. of Psychiatry and Neurosciences, Charité Campus Mitte (CCM), Charité - Universitätsmedizin Berlin, Germany<br>
-37. Violante lab, University of Surrey, UK<br>
+37. Violante lab, King's College London, UK<br>
 38. Zaehle lab, University Magdeburg, Germany<br>
+39. Ziemann lab, University of Tübingen, Germany<br>
 
 ![World_map_participating_labs](/assets/images/World_map_participating_labs.jpg)
-
- 
