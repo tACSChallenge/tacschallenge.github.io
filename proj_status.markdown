@@ -44,7 +44,7 @@ List of equipment and consumables
 |Item   |Quantity                             |Where to find / buy<sup><b>1</b></sup>|
 |-------|--------------------------------------|--------------------|
 |tACS device|1| several manufactors - see minimum specs above |
-|Stimulus presentation device|1| contact ** |
+|Stimulus presentation device|1| [available here](https://jonathanh13.wixsite.com/bluemagnet){:target="_blank"}|
 |Textile Landmark Caps for tACS Cap|1 <i>(1 minimum, 3 suggested with different adult head sizes)</i>| [https://shop.easycap.de/](https://shop.easycap.de/){:target="_blank"}<br> [https://mes.gmbh/](https://mes.gmbh/){:target="_blank"} |
 |tACS cap electrode holders|6 <i>(per cap)</i>| [tACS Electrode Holders .stl files for 3D printing](https://github.com/tACSChallenge/resources/tree/main/tACS_Electrode_Holders){:target="_blank"}|
 |Ten20 Gel|3 <i>(suggested for N=20)</i>| several supplier options, e.g.,<br> [unimed-electrodes](https://www.unimed-electrodes.co.uk/Ten20-EEG-Conductive-paste-228gm-(8oz)-tub/99){:target="_blank"}<br> [weaverandcompany](https://www.weaverandcompany.com/products/ten20/){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-consumables/1938652000002129038){:target="_blank"}<br> [easycap](https://shop.easycap.de/){:target="_blank"}|
