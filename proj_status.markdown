@@ -9,13 +9,13 @@ permalink: /proj_status/
 
  <span style="color:blue"><b>Study overview</b></span>
 
-The objective of the tACS initiative is twofold: 
+The objective of the tACS initiative is twofold:
 1. To identify a basic tACS paradigm that could be widely agreed upon in terms of theoretical efficacy; <span style="color:green"><b>[COMPLETED]</b></span>
-2. To conduct experiments using this paradigm across multiple research centres and investigate whether the application of tACS yields robust and replicable outcomes. 
+2. To conduct experiments using this paradigm across multiple research centres and investigate whether the application of tACS yields robust and replicable outcomes.
 
 {: style="text-align: justify;"}
 By collaborating across different sites, with complementary expertise, we aimed to increase the likelihood of obtaining conclusive findings through a multi-centre approach.
-In essence, our goal is to evaluate the consistency of results between centres and obtain a representative estimate of the effect size of tACS, specifically in the domain of visual perception. 
+In essence, our goal is to evaluate the consistency of results between centres and obtain a representative estimate of the effect size of tACS, specifically in the domain of visual perception.
 
 <span style="color:blue"><b>Data acquisition requirements</b></span>
 
@@ -33,7 +33,8 @@ Meet the minimum criteria in equipment settings to join the tACS challenge:
 {: style="text-align: justify;"}
 1. <u>Transcranial electric stimulator device:</u> minimum stimulation intensity 2 mA (peak-to-peak amplitude), that can produce an alternating current at 10Hz, with 1 channel or more.
 
-2. <u>Stimulus presentation device</u>: a software controlled, Arduino-based visual stimulation device box that will control 5 + 1 LEDs. The custom-built Arduino set-up is currently being estimated to cost about 700-800 € per device (design or devices available from Nir Grossman). *The tACS Challenge core team has 5 devices (atm) that can be shared across labs if collaborating labs don’t want to or cannot pay for having a device made.*
+2. <u>Stimulus presentation device</u>: a software controlled, Arduino-based visual stimulation device box that will control 5 + 1 LEDs. The custom-built Arduino set-up is currently being estimated to cost about 700-800 € per device ( devices available from [here](https://jonathanh13.wixsite.com/bluemagnet){:target="_blank"}). *The tACS Challenge core team has 5 devices (atm) that can be shared across labs if collaborating labs don’t want to or cannot pay for having a device made.*
+
 
 
 3. <u>Consumables and sundries</u>: these include caps, electrodes, gel, etc.
@@ -64,7 +65,7 @@ Participating labs can record EEG data as part of this study on their own initia
 
  <span style="color:blue"><b>Authorship</b></span>
 
-Those providing substantial contributions to the project (e.g., data collection) as co-authors, core team as corresponding authors, author list reflects degree of involvement. 
+Those providing substantial contributions to the project (e.g., data collection) as co-authors, core team as corresponding authors, author list reflects degree of involvement.
 
 <span style="color:blue"><b>Status</b></span>
 
@@ -85,8 +86,4 @@ Completion of Registered Report Stage 1.<br>
 
 
 {: style="text-align: justify;"}
-If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com) 
-
-
-
-
+If you have questions write us an email to [tacschallenge@gmail.com](mailto:tacschallenge@gmail.com)
