@@ -51,7 +51,7 @@ List of equipment and consumables
 |tACS rubber electrodes (Ø: 45 mm area: 16 cm² without hole 2 mm thick)|3 minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-electrodes-sponges/1938652000002129032){:target="_blank"}|
 |tACS rubber electrodes (Ø: 25mm area: 5cm² without hole 2 mm thick)|5 minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-electrodes-sponges/1938652000002129032){:target="_blank"}|
 |tACS electrode cables |5 pairs minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-cables/1938652000002129036){:target="_blank"}|
-|Current switching device<sup><b>2</b></sup> |optional| |
+|Current switching device<sup><b>2</b></sup> |optional| [available here](https://jonathanh13.wixsite.com/bluemagnet/tacs-switching-module){:target="_blank"}|
 |EMLA cream |optional| |
 
 
