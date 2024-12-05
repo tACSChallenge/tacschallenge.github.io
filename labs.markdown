@@ -56,4 +56,4 @@ permalink: /labs/
 43. Zaehle Lab, University Magdeburg, Germany<br>
 44. Ziemann Lab, University of Tübingen, Germany<br>
 
-![World_map_participating_labs](/assets/images/World_map_participating_labs_new.jpg)
+![World_map_participating_labs](/assets/images/World_map_participating_labs_Dec2024.jpg)
