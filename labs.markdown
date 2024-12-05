@@ -22,7 +22,7 @@ permalink: /labs/
 9. Cai Lab, Department of Psychology and Behavioral Science, Zhejiang University, China<br>
 10. Castelo-Branco Lab, CIBIT, ICNAS, Faculty of Medicine, University of Coimbra, Portugal<br>
 11. Cespón Lab, Department of Clinical Psychology and Psychobiology, University of Santiago de Compostela, Spain<br>
-12. Di Dona (Ronconi Lab), Department of Psychology and Cognitive Science, University of Trento, Italy<br>
+12. Di Dona, Brain Dynamics and Cognition Lab (BDAC Lab), Department of Psychology and Cognitive Science, University of Trento, Italy<br>
 13. Dyke Lab, University of Nottingham, UK<br>
 14. Fawcett Lab, Memorial University, Canada<br>
 15. Frings Lab, University of Trier, Germany<br>
