@@ -75,12 +75,14 @@ Completion of Registered Report Stage 1.<br>
 
 <u>April 2024</u> - Open call for participating labs <span style="color:green"><b>[COMPLETED]</b></span><br>
 <u>May 2024</u>- Registered Report Stage 1 submission <span style="color:green"><b>[COMPLETED]</b></span><br>
-<u>September 2024</u>- Presentation/discussion of the approved experimental designs<br>
-<u>November 2024</u>- Ethics applications for participating labs<br>
-<u>January – September 2025</u> - Data collection<br>
-<u>November 2025</u>- Data analyses completed<br>
-<u>January 2026</u>- Discussion of findings among participating labs<br>
-<u>March 2026</u>- Submission of Stage 2 Registered Report
+<u>December 2024</u>- Registered Report Stage 1 submitted revised version <span style="color:green"><b>[COMPLETED]</b></span><br>
+<u>February 2025</u>- Registered Report Stage 1 submitted re-revised version <br>
+<u>March 2025</u>- Presentation/discussion of the approved experimental designs<br>
+<u>April 2025</u>- Ethics applications for participating labs<br>
+<u>June 2025 – February 2026</u> - Data collection<br>
+<u>May 2026</u>- Data analyses completed<br>
+<u>June 2026</u>- Discussion of findings among participating labs<br>
+<u>September 2026</u>- Submission of Stage 2 Registered Report
 
 ![timeline](/assets/images/timeline.jpg)
 
