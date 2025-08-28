@@ -76,13 +76,14 @@ Completion of Registered Report Stage 1.<br>
 <u>April 2024</u> - Open call for participating labs <span style="color:green"><b>[COMPLETED]</b></span><br>
 <u>May 2024</u>- Registered Report Stage 1 submission <span style="color:green"><b>[COMPLETED]</b></span><br>
 <u>December 2024</u>- Registered Report Stage 1 submitted revised version <span style="color:green"><b>[COMPLETED]</b></span><br>
-<u>February 2025</u>- Registered Report Stage 1 submitted re-revised version <br>
-<u>March 2025</u>- Presentation/discussion of the approved experimental designs<br>
-<u>April 2025</u>- Ethics applications for participating labs<br>
-<u>June 2025 – February 2026</u> - Data collection<br>
-<u>May 2026</u>- Data analyses completed<br>
-<u>June 2026</u>- Discussion of findings among participating labs<br>
-<u>September 2026</u>- Submission of Stage 2 Registered Report
+<u>February 2025</u>- Registered Report Stage 1 submitted re-revised version <span style="color:green"><b>[COMPLETED]</b></span><br>
+<u>June 2025</u>- <span style="color:green"><b>[Stage 1 Registered Report Accepted]</b></span><br>
+<u>Sep/Oct 2025</u>- Kick-off meeting & project orientation<br>
+<u>December 2025</u>- Ethics applications for participating labs submitted<br>
+<u>August 2025 – August 2026</u> - Data collection<br>
+<u>October 2026</u>- Data analyses completed<br>
+<u>November 2026</u>- Discussion of findings among participating labs<br>
+<u>December 2026</u>- Submission of Stage 2 Registered Report
 
 ![timeline](/assets/images/timeline.jpg)
 
