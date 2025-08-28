@@ -77,7 +77,7 @@ Completion of Registered Report Stage 1.<br>
 <u>May 2024</u>- Registered Report Stage 1 submission <span style="color:green"><b>[COMPLETED]</b></span><br>
 <u>December 2024</u>- Registered Report Stage 1 submitted revised version <span style="color:green"><b>[COMPLETED]</b></span><br>
 <u>February 2025</u>- Registered Report Stage 1 submitted re-revised version <span style="color:green"><b>[COMPLETED]</b></span><br>
-<u>June 2025</u>- <span style="color:green"><b>[Stage 1 Registered Report Accepted]</b></span><br>
+<u>June 2025</u>- <span style="color:green"><b>Stage 1 Registered Report Accepted</b></span><br>
 <u>Sep/Oct 2025</u>- Kick-off meeting & project orientation<br>
 <u>December 2025</u>- Ethics applications for participating labs submitted<br>
 <u>August 2025 – August 2026</u> - Data collection<br>
