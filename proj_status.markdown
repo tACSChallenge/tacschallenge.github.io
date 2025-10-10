@@ -78,9 +78,53 @@ Completion of Registered Report Stage 1.<br>
 <u>December 2024</u>- Registered Report Stage 1 submitted revised version <span style="color:green"><b>[COMPLETED]</b></span><br>
 <u>February 2025</u>- Registered Report Stage 1 submitted re-revised version <span style="color:green"><b>[COMPLETED]</b></span><br>
 <u>June 2025</u>- <span style="color:green"><b>Stage 1 Registered Report Accepted</b></span><br>
-<u>Sep/Oct 2025</u>- Kick-off meeting & project orientation<br>
+<u>Sep/Oct 2025</u>- Kick-off meeting & project orientation<span style="color:green"><b>[13th Ocyober]</b></span><br>
 <u>December 2025</u>- Ethics applications for participating labs submitted<br>
 <u>August 2025 – August 2026</u> - Data collection<br>
+<h3>
+<span id="stopwatch" class="pulse">⏱️</span>
+  Labs Completed: <span id="labCounter" data-target="1">0</span>
+</h3>
+
+<script>
+  const counter = document.getElementById('labCounter');
+  const stopwatch = document.getElementById('stopwatch');
+  const target = parseInt(counter.getAttribute('data-target'), 10);
+  let count = 0;
+  const step = Math.ceil(target / 30);
+
+  const interval = setInterval(() => {
+    count = Math.min(count + step, target);
+    counter.textContent = count;
+    if (count === target) {
+      clearInterval(interval);
+      stopwatch.classList.add('pulse-finish'); // trigger pulse
+    }
+  }, 50);
+</script>
+
+<style>
+#labCounter {
+  color: #28a745;
+  font-weight: bold;
+  font-size: 1.3em;
+}
+h3 {
+  font-family: system-ui, sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+}
+.pulse-finish {
+  animation: pulse 0.8s ease-in-out 2;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.3); }
+  100% { transform: scale(1); }
+}
+</style>
+
 <u>October 2026</u>- Data analyses completed<br>
 <u>November 2026</u>- Discussion of findings among participating labs<br>
 <u>December 2026</u>- Submission of Stage 2 Registered Report
