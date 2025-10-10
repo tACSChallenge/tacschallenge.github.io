@@ -115,7 +115,7 @@ Ethics applications and data collection initiated<br>
 #labCounter {
   color: #28a745;
   font-weight: bold;
-  font-size: 1.3em;
+  font-size:2.6em;
 }
 h3 {
   font-family: system-ui, sans-serif;
