@@ -1,0 +1,6 @@
+<!-- Green round check -->
+<svg role="img" aria-label="Success" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24">
+  <title>Success</title>
+  <circle cx="12" cy="12" r="12" fill="#28a745"/>
+  <path d="M9.1 16.2l-3.2-3.2 1.4-1.4 1.8 1.8 5.8-5.8 1.4 1.4z" fill="#ffffff"/>
+</svg>
