@@ -10,7 +10,7 @@ permalink: /labs/
 {: style="text-align: justify;"}
 
 <span style="color:blue"><b>Confirmed Labs (in alphabetical order)</b></span><br>
-<b>Labs that completed data collection and sharing get a </b> ![Success](/assets/images/check-green.svg)
+<b>Labs that completed data collection and sharing get a </b> ![Success](/assets/images/success.svg)
 <br>
 1. Aglioti Lab, Neuroscience & Society, Italian Institute of Technology (IIT), Rome, Italy<br>
 2. Antal Lab, NIBS Lab, University Medical Center Göttingen, Germany<br>
@@ -29,7 +29,7 @@ permalink: /labs/
 15. Frings Lab, University of Trier, Germany<br>
 16. Gharabaghi Lab, Institute for Neuromodulation and Neurotechnology, University Tübingen, Germany<br>
 17. Gundlach-Hartwigsen-Sehm Labs, Leipzig University, MPI CBS, Germany<br>
-18. Hanslmayr Lab, University of Glasgow, Centre for Neurotechnology, UK ![Success](/assets/images/check-green.svg)<br>
+18. Hanslmayr Lab, University of Glasgow, Centre for Neurotechnology, UK ![Success](/assets/images/success.svg)<br>
 19. Herrmann Lab, Carl Von Ossietzky University, Germany<br>
 20. Huang Lab, Institute of Psychology, Chinese Academy of Sciences, China<br>
 21. Ionta Lab, University of Lausanne, Jules Gonin Eye Hospital - Fondation Asile des Aveugles, Lausanne, Switzerland<br>
