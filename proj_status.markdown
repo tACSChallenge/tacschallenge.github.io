@@ -59,17 +59,25 @@ List of equipment and consumables
 
 <sup><b>2</b></sup> The current switching device allows switching between montages (i.e. different stimulation conditions). It was developed to allow for more efficient switching between the 3 montages used in the study. This is optional as the montage switching can be done manually. Details for the current switching device and associated costs can be provided upon request.
 
- <span style="color:blue"><b>Additional data acquisition - optional</b></span>
+ <span style="color:blue"><b>Additional data acquisition - EEG resting state</b></span>
 
-Participating labs can record EEG data as part of this study on their own initiative: Sampling rate 1000 Hz, High-pass filter: DC recording or < 0.1 Hz, Low-pass filter > 100 Hz; Channels up to 32 passive or active placed according to the 10-20 International EEG system.
+EEG data acquisition was included in the protocol during the review of the Registered Report.
+
+Resting state EEG will be recorded from the same electrode pair that is used to record the
+tACS signal. Two electrodes at POz and Cz will be connected to a **conventional
+EEG amplifier** using Cz as a reference and FPz as Ground. The EEG will be sampled at a
+minimum of 100 Hz, during 2 minutes eyes-open and 2 minutes eyes-closed resting state.
+These resting state EEG data will be recorded before the start of the experiment, and after the experiment.
+
+Note: the tACS device will not be suitable to collect EEG data
 
  <span style="color:blue"><b>Authorship</b></span>
 
 Those providing substantial contributions to the project (e.g., data collection) as co-authors, core team as corresponding authors, author list reflects degree of involvement.
 
-<span style="color:blue"><b>Status</b></span>
+<span style="color:blue"><b>Current Status</b></span>
 
-Completion of Registered Report Stage 1.<br>
+Ethics applications and data collection initiated<br>
 
 <span style="color:blue"><b>Tentative timeline</b></span>
 
