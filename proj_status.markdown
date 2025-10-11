@@ -112,10 +112,13 @@ Ethics applications and data collection initiated<br>
 </script>
 
 <style>
+#stopwatch {
+  font-size: 2em; /* doubles the size of the stopwatch emoji */
+}
 #labCounter {
   color: #28a745;
   font-weight: bold;
-  font-size:2.6em;
+  font-size:1.3em;
 }
 h3 {
   font-family: system-ui, sans-serif;
