@@ -16,6 +16,8 @@ The repository includes [SOPs](https://github.com/tACSChallenge/resources){:targ
 Currently the OSF contains the pilot data for the visual stimulation paradigm
 
 <span style="color:blue"><b>Talks</b></span><br>
+[Kick-off meeting 2025](https://youtu.be/w3Pa_bEIsrY){:target="_blank"}
+
 [TBS CNW December 2022](https://www.youtube.com/watch?v=alBflLKyZcA){:target="_blank"}
 
 [Mainz Conference 2019](https://www.youtube.com/watch?v=-FlYCVHx9Wg){:target="_blank"}
