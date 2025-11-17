@@ -56,5 +56,6 @@ permalink: /labs/
 42. Violante Lab, King’s College London, UK<br>
 43. Zaehle Lab, University Magdeburg, Germany<br>
 44. Ziemann Lab, University of Tübingen, Germany<br>
+45. Zoefel Lab, CNRS, Brain and Cognition Research Centre, Toulouse, France<br>
 
 ![World_map_participating_labs](/assets/images/World_map_participating_labs_Dec2024.jpg)
