@@ -39,7 +39,7 @@ permalink: /labs/
 25. Liu Chunlei Lab, School of Psychology, Qufu Normal University, China ![Success](/assets/images/success.svg)<br>
 26. Lupiáñez Lab, Department of Experimental Psychology and Mind, Brain, and Behavior Research Center, University of Granada, Spain<br>
 27. Martin Lab, University of Kent, UK<br>
-28. Miniussi Lab, University of Trento, Italy<br>
+28. Miniussi Lab, University of Trento, Italy ![Success](/assets/images/success.svg)<br>
 29. Mittner Lab, Department of Psychology, UiT - The Arctic University of Norway, Norway<br>
 30. Obleser Lab, University of Lübeck, Germany<br>
 31. Pack Lab, Montreal Neurological Institute, McGill, Canada<br>
