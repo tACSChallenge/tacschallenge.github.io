@@ -11,7 +11,7 @@ permalink: /proj_status/
 
 The objective of the tACS initiative is twofold:
 1. To identify a basic tACS paradigm that could be widely agreed upon in terms of theoretical efficacy; <span style="color:green"><b>[COMPLETED]</b></span>
-2. To conduct experiments using this paradigm across multiple research centres and investigate whether the application of tACS yields robust and replicable outcomes.
+2. To conduct experiments using this paradigm across multiple research centres and investigate whether the application of tACS yields robust and replicable outcomes. <span style="color:orange"><b>[ONGOING]</b></span>
 
 {: style="text-align: justify;"}
 By collaborating across different sites, with complementary expertise, we aimed to increase the likelihood of obtaining conclusive findings through a multi-centre approach.
@@ -91,7 +91,7 @@ Ethics applications and data collection initiated<br>
 <u>August 2025 – August 2026</u> - Data collection<br>
 <h3>
 <span id="stopwatch" class="pulse">⏱️</span>
-  Labs Completed: <span id="labCounter" data-target="3">0</span>
+  Labs Completed: <span id="labCounter" data-target="4">0</span>
 </h3>
 
 <script>
