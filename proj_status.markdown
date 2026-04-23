@@ -45,7 +45,7 @@ List of equipment and consumables
 |-------|--------------------------------------|--------------------|
 |tACS device|1| several manufactors - see minimum specs above |
 |Stimulus presentation device|1| [available here](https://jonathanh13.wixsite.com/bluemagnet){:target="_blank"}|
-|Textile Landmark Caps for tACS Cap|1 <i>(1 minimum, 3 suggested with different adult head sizes)</i>| [https://shop.easycap.de/](https://shop.easycap.de/){:target="_blank"}<br> [https://mes.gmbh/](https://mes.gmbh/){:target="_blank"} |
+|Textile Landmark Caps for tACS Cap|1 <i>(1 minimum, 3 suggested with different adult head sizes)</i>| [https://shop.easycap.de/collections/tacs-challenge/](https://shop.easycap.de/collections/tacs-challenge){:target="_blank"}<sup><b>3</b></sup><br> [https://mes.gmbh/](https://mes.gmbh/){:target="_blank"} |
 |tACS cap electrode holders|6 <i>(per cap)</i>| [tACS Electrode Holders .stl files for 3D printing](https://github.com/tACSChallenge/resources/tree/main/tACS_Electrode_Holders){:target="_blank"}|
 |Ten20 Gel|3 <i>(suggested for N=20)</i>| several supplier options, e.g.,<br> [unimed-electrodes](https://www.unimed-electrodes.co.uk/Ten20-EEG-Conductive-paste-228gm-(8oz)-tub/99){:target="_blank"}<br> [weaverandcompany](https://www.weaverandcompany.com/products/ten20/){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-consumables/1938652000002129038){:target="_blank"}<br> [easycap](https://shop.easycap.de/){:target="_blank"}|
 |tACS rubber electrodes (Ø: 45 mm area: 16 cm² without hole 2 mm thick)|3 minimum| supplier options, e.g.,<br> [neurocaregroup](https://www.neurocaregroup.com/en/technology/tdcs-and-tes-devices){:target="_blank"}<br> [brainbox](https://www.brainbox.shop/categories/tes-electrodes-sponges/1938652000002129032){:target="_blank"}|
@@ -58,6 +58,10 @@ List of equipment and consumables
 <sup><b>1</b></sup> Where manufacturers are listed these are just examples. We do not make specific manufacturer recommendations.
 
 <sup><b>2</b></sup> The current switching device allows switching between montages (i.e. different stimulation conditions). It was developed to allow for more efficient switching between the 3 montages used in the study. This is optional as the montage switching can be done manually. Details for the current switching device and associated costs can be provided upon request.
+
+<sup><b>3</b></sup> Easycap has created 2 specific tACS Challenge caps that are compatible with the project.
+CVA-9-X2 is a cap with just openings for the holders. CVA-9-X3 is a cap with holders already inserted.
+For researchers who need a starter bundle, Easycap offers 10% discount on the caps when ordering minimum 3 caps in direct sales (not through local distributors), either through their webshop or directly inquiring with them at support@easycap.de, quoting “tACS Challenge Bundle.”
 
  <span style="color:blue"><b>Additional data acquisition - EEG resting state</b></span>
 
