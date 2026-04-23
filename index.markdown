@@ -32,5 +32,5 @@ The protocol and resources currently available have been developed by the **[tAC
 Discover more about the project protocol and project requirements in the **[Project Requirements and Status](/proj_status/)** page.
 
 {: style="text-align: justify;"}
-Check the list of **[Participating Labs](/labs/)** that are joining the tACS Challenge
+Check the list of **[Participating Labs](/labs/)** that have joined the tACS Challenge
 
