@@ -33,7 +33,7 @@ Meet the minimum criteria in equipment settings to join the tACS challenge:
 {: style="text-align: justify;"}
 1. <u>Transcranial electric stimulator device:</u> minimum stimulation intensity 2 mA (peak-to-peak amplitude), that can produce an alternating current at 10Hz, with 1 channel or more.
 
-2. <u>Stimulus presentation device</u>: a software controlled, Arduino-based visual stimulation device box that will control 5 + 1 LEDs. The custom-built Arduino set-up is currently being estimated to cost about 700-800 € per device ( devices available from [here](https://jonathanh13.wixsite.com/bluemagnet){:target="_blank"}). *The tACS Challenge core team has 5 devices (atm) that can be shared across labs if collaborating labs don’t want to or cannot pay for having a device made.*
+2. <u>Stimulus presentation device</u>: a software controlled, Arduino-based visual stimulation device box that will control 5 + 1 LEDs. The custom-built Arduino set-up is currently being estimated to cost about 700-800 € per device ( devices available from [here](https://jonathanh13.wixsite.com/bluemagnet){:target="_blank"}). *There are 12 devices that can be shared across labs.* Check <b>[here](https://gla-my.sharepoint.com/:x:/g/personal/2832601m_student_gla_ac_uk/IQA9_PM341fRR6akQLsQA6N1AbdvaDEsVtJ5SYoR29uvs50?e=JGGWph&xsdata=MDV8MDJ8aW5lcy52aW9sYW50ZUBrY2wuYWMudWt8YTVjYmNmYjhiZmI5NDA3MWEyN2QwOGRlYTQ3ODJkZjd8ODM3MGNmMTQxNmYzNGMxNmI4M2M3MjQwNzE2NTQzNTZ8MHwwfDYzOTEyOTAzMzI0NTczNDM1MXxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=cnQ4YnMvRTJqSlhrS2VlWlJ0aHRzOE5nRWdhSmV6SnZpU1hEQWpteW0zbz0%3d)</b> the status of the devices. 
 
 
 
@@ -92,7 +92,7 @@ Ethics applications and data collection initiated<br>
 <u>June 2025</u>- <span style="color:green"><b>Stage 1 Registered Report Accepted</b></span><br>
 <u>Sep/Oct 2025</u>- Kick-off meeting & project orientation<span style="color:green"><b> [13th October]</b></span><br>
 <u>December 2025</u>- Ethics applications for participating labs submitted<br>
-<u>August 2025 – August 2026</u> - Data collection<br>
+<u>August 2025 – March 2027</u> - Data collection<br>
 <h3>
 <span id="stopwatch" class="pulse">⏱️</span>
   Labs Completed: <span id="labCounter" data-target="4">0</span>
@@ -140,9 +140,9 @@ h3 {
 }
 </style>
 
-<u>October 2026</u>- Data analyses completed<br>
-<u>November 2026</u>- Discussion of findings among participating labs<br>
-<u>December 2026</u>- Submission of Stage 2 Registered Report
+<u>May 2027</u>- Data analyses completed<br>
+<u>June 2027</u>- Discussion of findings among participating labs<br>
+<u>October 2027</u>- Submission of Stage 2 Registered Report
 
 ![timeline](/assets/images/timeline.jpg)
 
