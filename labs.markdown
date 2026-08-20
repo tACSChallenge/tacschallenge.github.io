@@ -37,7 +37,7 @@ permalink: /labs/
 23. Learmonth Lab, University of Stirling, Scotland, UK<br>
 24. Lin He Lab, Key Laboratory of Rehabilitation Medicine in Sichuan Province, Department of Rehabilitation Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China<br>
 25. Liu Chunlei Lab, School of Psychology, Qufu Normal University, China ![Success](/assets/images/success.svg)<br>
-26. Lupiáñez Lab, Department of Experimental Psychology and Mind, Brain, and Behavior Research Center, University of Granada, Spain<br>
+26. Lupiáñez Lab, Department of Experimental Psychology and Mind, Brain, and Behavior Research Center, University of Granada, Spain ![Success](/assets/images/success.svg)<br>
 27. Martin Lab, University of Kent, UK<br>
 28. Miniussi Lab, University of Trento, Italy ![Success](/assets/images/success.svg)<br>
 29. Mittner Lab, Department of Psychology, UiT - The Arctic University of Norway, Norway<br>
@@ -45,7 +45,7 @@ permalink: /labs/
 31. Pack Lab, Montreal Neurological Institute, McGill, Canada<br>
 32. Pavlov Lab, University of Tübingen, Germany<br>
 33. Ruhnau Lab, Perception, Cognition, and Neuroscience Group, University of Central Lancashire, UK<br>
-34. Sack Lab, Maastricht University, Netherlands<br>
+34. Sack Lab, Maastricht University, Netherlands ![Success](/assets/images/success.svg)<br>
 35. Sale Lab, University of Queensland, Australia<br>
 36. Scando Lab, NPSY-Lab.VR, University of Verona, Italy<br>
 37. Schneider Lab, University Medical Center Hamburg-Eppendorf, Germany<br>

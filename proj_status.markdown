@@ -95,7 +95,7 @@ Ethics applications and data collection initiated<br>
 <u>August 2025 – March 2027</u> - Data collection<br>
 <h3>
 <span id="stopwatch" class="pulse">⏱️</span>
-  Labs Completed: <span id="labCounter" data-target="4">0</span>
+  Labs Completed: <span id="labCounter" data-target="6">0</span>
 </h3>
 
 <script>
