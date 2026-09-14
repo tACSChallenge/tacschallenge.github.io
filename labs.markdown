@@ -15,7 +15,7 @@ permalink: /labs/
 1. Aglioti Lab, Neuroscience & Society, Italian Institute of Technology (IIT), Rome, Italy<br>
 2. Antal Lab, NIBS Lab, University Medical Center Göttingen, Germany<br>
 3. Antonenko Lab, Department of Neurology, Universitätsmedizin Greifswald, Germany ![Success](/assets/images/success.svg)<br>
-4. Battaglini Lab, PercUP Group, Department of General Psychology, University of Padova, Italy<br>
+4. Battaglini Lab, PercUP Group, Department of General Psychology, University of Padova, Italy ![Success](/assets/images/success.svg)<br>
 5. Battelli Lab, Italian Institute of Technology, Italy<br>
 6. Bergmann Lab, Johannes-Gutenberg University Medical Center, Germany<br>
 7. Bjekic Lab, Human Neuroscience Group, Institute for Medical Research, University of Belgrade, Serbia<br>
@@ -30,7 +30,7 @@ permalink: /labs/
 16. Gharabaghi Lab, Institute for Neuromodulation and Neurotechnology, University Tübingen, Germany<br>
 17. Gundlach-Hartwigsen-Sehm Labs, Leipzig University, MPI CBS, Germany<br>
 18. Hanslmayr Lab, University of Glasgow, Centre for Neurotechnology, UK ![Success](/assets/images/success.svg)<br>
-19. Herrmann Lab, Carl Von Ossietzky University, Germany<br>
+19. Herrmann Lab, Carl Von Ossietzky University, Germany ![Success](/assets/images/success.svg)<br>
 20. Huang Lab, Institute of Psychology, Chinese Academy of Sciences, China<br>
 21. Ionta Lab, University of Lausanne, Jules Gonin Eye Hospital - Fondation Asile des Aveugles, Lausanne, Switzerland<br>
 22. Ivry Lab, University of California, Berkeley, USA<br>
