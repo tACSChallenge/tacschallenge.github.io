@@ -17,7 +17,7 @@ permalink: /labs/
 3. Antonenko Lab, Department of Neurology, Universitätsmedizin Greifswald, Germany ![Success](/assets/images/success.svg)<br>
 4. Battaglini Lab, PercUP Group, Department of General Psychology, University of Padova, Italy ![Success](/assets/images/success.svg)<br>
 5. Battelli Lab, Italian Institute of Technology, Italy<br>
-6. Bergmann Lab, Johannes-Gutenberg University Medical Center, Germany<br>
+6. Bergmann Lab, Johannes-Gutenberg University Medical Center, Germany ![Success](/assets/images/success.svg)<br>
 7. Bjekic Lab, Human Neuroscience Group, Institute for Medical Research, University of Belgrade, Serbia<br>
 8. Bortoletto Lab, IMT School for Advanced Studies Lucca, Lucca, Italy<br>
 9. Cai Lab, Department of Psychology and Behavioral Science, Zhejiang University, China<br>
