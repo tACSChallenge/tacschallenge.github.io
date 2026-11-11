@@ -101,7 +101,7 @@ Ethics applications and data collection initiated<br>
 <script>
   const counter = document.getElementById('labCounter');
   const stopwatch = document.getElementById('stopwatch');
-  const target = parseInt(counter.getAttribute('data-target'), 10);
+  const target = parseInt(counter.getAttribute('data-target'), 11);
   let count = 0;
   const step = Math.ceil(target / 30);
 

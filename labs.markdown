@@ -33,7 +33,7 @@ permalink: /labs/
 19. Herrmann Lab, Carl Von Ossietzky University, Germany ![Success](/assets/images/success.svg)<br>
 20. Huang Lab, Institute of Psychology, Chinese Academy of Sciences, China<br>
 21. Ionta Lab, University of Lausanne, Jules Gonin Eye Hospital - Fondation Asile des Aveugles, Lausanne, Switzerland<br>
-22. Ivry Lab, University of California, Berkeley, USA<br>
+22. Ivry Lab, University of California, Berkeley, USA ![Success](/assets/images/success.svg)<br>
 23. Learmonth Lab, University of Stirling, Scotland, UK<br>
 24. Lin He Lab, Key Laboratory of Rehabilitation Medicine in Sichuan Province, Department of Rehabilitation Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China<br>
 25. Liu Chunlei Lab, School of Psychology, Qufu Normal University, China ![Success](/assets/images/success.svg)<br>
